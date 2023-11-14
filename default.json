@@ -2,7 +2,7 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 0,
-        "HideIcon": false,
+        "HideIcon": true,
         "HideIconAfter": 60,
         "IconURL": "https://i.imgur.com/OZ6xOjY.png",
         "DisableIconText": false,
@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "Welcome",
+          "buttontext": "Hola",
           "title1": "Thanks for installing WBUI2!",
           "text1": "Hola.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
