@@ -26,7 +26,7 @@
         "tab2": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thank you for playing",
+          "title1": "Thank you for playing on the server",
           "text1": "<TextStyle.LightRed>Rules\nUndermesh is forbidden\n8 players per tribe alliances not allowed\nMaximum of 2 bases 1 cave\nExtreme toxicty is forbidden\nUsing hacks bugs is forbidden and may get you banned\nDont build bases/fobs on character respawn points\nYou can only spam foundations near your base or near your fob if you are raiding\nCant build on obelisks\nSurvivors names like :Human,123,Bob are forbidden\nIs mandatory to have same name on the game and discord\nForbidden to build turrets on any platform dino\nIgnorance of the rules does not excuse the consequences of failing to comply with them.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
@@ -36,44 +36,9 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.gg/yYTnEVqyag"
         }
-      },
-      {
-        "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-        }
-      },
-      {
-        "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Github",
-          "url": "https://github.com"
-        }
-      },
-      {
-        "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
-        }
-      },
-      {
-        "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
-        }
+      }
       }
     ]
   }
