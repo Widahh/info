@@ -30,6 +30,17 @@
           "text1": "<TextStyle.Red>Rules:</>\n\nBreaking turrets with rafts with tunels is not allowed Platform dinos must be shootable by turrets\n\nUndermesh is forbidden\n\n8 players per tribe alliances not allowed\n\nMaximum of 2 bases 1 cave\n\nExtreme toxicty is forbidden\n\nUsing hacks bugs is forbidden and may get you banned\n\nDont build bases/fobs on character respawn points\n\nYou can only spam foundations near your base or near your fob if you are raiding\n\nCant build on obelisks<RichColor Color=\"1,0,0,1\"> or cementing paste cave</>\n\nSurvivors names like :Human,123,Bob are forbidden\n\nIs mandatory to have same name on the game and discord\n\nIgnorance of the rules does not excuse the consequences of failing to comply with them.\n\nIf you have any trouble you have the discord link on the bottom left corner,open a ticket there and we will assist you",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
+      } ,
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Settings",
+          "title1": "Configuracion",
+          "title2": "Settings",
+          "text1": "Shop en F10\nFarmeo x1\nTameo x10\nCrianza x20\nCrecimiento de los huertos x5\nEclosion de huevos x20\nTiempo para volver a criar x10\nImprints al 100% con 1 cuidado\nEenergia del jugador y dino x2\nPeso del jugador y dino x100\nHabilidad de crafteo x100\nDaño de los dinos x2\nPuntos para desbloquear todos los engrams\nConsigue todos los artefactos en los drops blancos\nLos bosses solo pdien artefactos para invocarlos",
+          "text2": "This text goes into the right box",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
       }
     ],
     "links": [
